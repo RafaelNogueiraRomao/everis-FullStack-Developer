@@ -1,0 +1,25 @@
+Pseudocódigo 
+
+Início do jogo
+  1.	Move filhote pinguim vermelho 
+  2.	Move mãe pinguim vermelha 
+  3.	Move gelo
+  4.	Move mãe pinguim vermelha 
+  5.	Move gelo
+  6.	Move filhote pinguim verde
+  7.	Move gelo
+  8.	Move filhote pinguim vermelho
+  9.	Move gelo
+  10.	Move mãe pinguim verde
+  11.	Move gelo
+  12.	Move pinguim verde
+  13.	Move gelo
+  14.	Move filhote pinguim azul
+  15.	Move gelo
+  16.	Move filhote pinguim verde
+  17.	Move gelo+
+  18.	Move mãe pinguim azul
+  19.	Move gelo
+  20.	Move mãe pinguim azul
+  21.	Move filhote pinguim azul
+Fim do Jogo
