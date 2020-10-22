@@ -1,0 +1,12 @@
+Função Principal
+    Definir Real nota1, nota2, nota3, nota4, media, total
+    
+    Entrada nota1
+    Entrada nota2
+    Entrada nota3
+    Entrada nota4
+    Atribuir total = nota1+nota2+nota3+nota4
+    Atribuir media = (nota1+nota2+nota3+nota4)/4
+    Saída total
+    Saída media
+Fim
